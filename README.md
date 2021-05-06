@@ -3,4 +3,6 @@
 - nuevo cambio
 - esto lo hago desde la web
 
-![GitHub Logo](/images/logo.png)
+
+
+![Gatito](C:/Users\slms_\Documents\Innovaccion\reto1-innovaccion\gato.jpg)
