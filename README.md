@@ -5,4 +5,4 @@
 
 
 
-![Gatito](C:/Users\slms_\Documents\Innovaccion\reto1-innovaccion\gato.jpg)
+![Gatito](C:/Users/slms_/Documents/Innovaccion/reto1-innovaccion/gato.jpg)
